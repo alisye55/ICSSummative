@@ -7,6 +7,7 @@ An introductory learning to programming.
 - Use of sprite sheets
 - Inputs and Outputs
 - Import and Export
+- Unorganized but an attempt to OOP
 
 Images are not copy righted and taken from a game.
 
